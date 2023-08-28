@@ -4,7 +4,7 @@
 // @author         Florian PASTEUR https://github.com/florianpasteur
 // @version        0.0.1
 // @icon           http://tampermonkey.net/favicon.ico
-// @match          <$URL$>
+// @match          https://*.dcbstatic.com
 // @grant          none
 // @run-at         document-end
 // ==/UserScript==
